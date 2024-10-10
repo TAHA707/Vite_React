@@ -27,7 +27,7 @@ function App() {
     </div>   
 
 
-<div className='p-10 bg-gray-200 c'>
+<div className='p-10 bg-gray-200 '>
   <div className='text-2xl font-black text-center'>Contact Us</div>
   <Formik 
   initialValues={{
